@@ -1,2 +1,3 @@
-# smart-testing-framework-gvjo
-A repository to test GitHub automation for issue management
+# Smart Testing Framework Gvjo
+
+A repository to test GitHub automation for issue management.
